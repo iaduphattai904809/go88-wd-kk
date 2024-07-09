@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Go88 - nền tảng game đổi thưởng uy tín nhất Châu Á - wd-kk.com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Go88 <https://wd-kk.com/>`_ là một nền tảng game bài đổi thưởng nổi tiếng tại khu vực châu Á, thu hút hàng trăm nghìn người chơi hằng ngày. Nơi đây cung cấp đa dạng các trò chơi bao gồm Baccarat, Roulette, Sicbo, cùng những tựa game như Phỏm, Liêng, Sâm Lốc, và các Slot game phong phú. Người chơi có thể truy cập Go88 qua trình duyệt web như Cốc Cốc, Safari, Chrome, Firefox, Opera hoặc tải ứng dụng trên điện thoại để trải nghiệm nhanh chóng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://wd-kk.com/
 
-.. note::
+Địa chỉ: 26 Chu Văn An, Quận Hải Châu, Đà Nẵng
 
-   This project is under active development.
+Zipcode: 500000
 
-Contents
---------
+Số điện thoại: 0915821318
 
-.. toctree::
-
-   usage
-   api
+Hashtag: #Go88_trang_chu_chinh_thuc , #play_Go88, #Go88_club, #game_Go88
